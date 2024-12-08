@@ -1,6 +1,6 @@
 # Template for Filebased
 
-This document serves as a template for [Filebased](https://github.com/ChaotenHG/filebased).
+This document serves as a template for [Filebased](https://github.com/BenDerFarmer/filebased).
 
 ## Usage Instructions
 
@@ -14,5 +14,5 @@ air
 
 ## Additional Information
 
-- If you encounter any issues, consult the [Filebased issues page](https://github.com/ChaotenHG/filebased/issues) for troubleshooting help.
+- If you encounter any issues, consult the [Filebased issues page](https://github.com/BenDerFarmer/filebased/issues) for troubleshooting help.
 - For more detailed installation instructions, please refer to the [Air documentation](https://github.com/air-verse/air).
